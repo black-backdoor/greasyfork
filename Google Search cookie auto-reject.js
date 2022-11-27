@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Google Search cookie auto-reject
-// @namespace    not_open_?
-// @version      0.1.1
+// @namespace    http://tampermonkey.net/
+// @version      0.0.1
 // @description  Automatically rejects Google Search's cookie banner in EN/FR/DE
 // @author       black-backdoor (https://github.com/black-backdoor)
 // @match        https://www.google.com/*
